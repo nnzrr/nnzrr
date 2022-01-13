@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nnzrr
 - 👀 I’m interested in Databases, SQL, and Python
 - 🌱 I’m currently learning Python
-- 📫 reach me nazarudinahmad@gmail.com
+- 📫 reach me nazarudinahmad@outlook.com
 
 <!---
 nnzrr/nnzrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
